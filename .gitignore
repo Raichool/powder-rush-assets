@@ -1,0 +1,5 @@
+raw/
+out/decor_raw/
+out/*_raw.glb
+*.blend
+*.blend1

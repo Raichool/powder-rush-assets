@@ -1,0 +1,40 @@
+{
+ "blue": {
+  "Jacket": "F07A1A",
+  "Accent": "2F86A6",
+  "Pants": "1E2A4F",
+  "Gloves": "2C7FA0",
+  "Boots": "3A8FB0",
+  "Sole": "EDE6D6",
+  "Mask": "1B2547",
+  "Beanie": "EDE6D6",
+  "Strap": "1E2A4F"
+ },
+ "red": {
+  "Jacket": "D8313B",
+  "Accent": "F2C14E",
+  "Pants": "2B2B2E",
+  "Gloves": "F2C14E",
+  "Boots": "2B2B2E",
+  "Beanie": "2B2B2E",
+  "Lens": "F2C14E"
+ },
+ "green": {
+  "Jacket": "3FA34D",
+  "Accent": "F4F1DE",
+  "Pants": "3D405B",
+  "Gloves": "3D405B",
+  "Boots": "F4F1DE",
+  "Beanie": "E07A5F",
+  "Lens": "E07A5F"
+ },
+ "purple": {
+  "Jacket": "7B4FC9",
+  "Accent": "45D3C7",
+  "Pants": "1C1C3A",
+  "Gloves": "45D3C7",
+  "Boots": "45D3C7",
+  "Beanie": "F7F7F7",
+  "Lens": "FF6FB5"
+ }
+}
